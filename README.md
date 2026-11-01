@@ -40,15 +40,19 @@ Computação em Nuvem
 ## ⭐ Projetos em Destaque
 ## 🧩 Despluguito
 Projeto educacional voltado ao desenvolvimento do Pensamento Computacional.
+https://github.com/DaianeEP/despluguito.git
 
 ## 🤖 Sistema Bancário API
 API RESTful desenvolvida com FastAPI, autenticação JWT e banco de dados assíncrono.
+https://github.com/DaianeEP/sistema-bancario-api.git
 
 ## 📊 Dashboard IA no Trabalho
 Dashboard de produtividade desenvolvido durante a Sprint IA no Trabalho.
+https://github.com/DaianeEP/sprint-IA-no-trabalho.git
 
 ## 🧬 Mini Guia de Estudos com NotebookLM
 Projeto voltado à pesquisa e síntese de conteúdo científico utilizando IA.
+https://github.com/DaianeEP/mini-guia-de-estudos.git
 
 ## 📜 Certificações
 ✅ AWS Certified Cloud Practitioner
