@@ -10,11 +10,12 @@
 
 ## 🚀 Sobre mim
 
-Sou apaixonada por educação, tecnologia e aprendizagem contínua.
+Sou Daiane Eleutério Pereira, bacharelanda em Inteligência Artificial pela UNIVESP, com formação em Ciências Biológicas e experiência nas áreas de educação, tecnologia e administração escolar.
 
-Atualmente estou construindo minha trajetória na área de Inteligência Artificial, explorando aplicações que possam apoiar professores, estudantes e instituições de ensino.
+Atualmente, desenvolvo competências em Inteligência Artificial, IA Generativa e sistemas inteligentes, buscando criar soluções que gerem impacto positivo em diferentes contextos, especialmente na educação.
 
-Meu objetivo é desenvolver soluções que utilizem IA para tornar o aprendizado mais acessível, personalizado e significativo.
+Este repositório documenta meus projetos, experimentos e aprendizados.
+
 
 ## 🛠️ Tecnologias e Ferramentas
 ## Linguagens
